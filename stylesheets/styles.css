@@ -54,10 +54,6 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
 
-bullets li {
- display: list-item;
-}
-
 body {
   background-color: #fff;
   padding:50px;
@@ -197,7 +193,7 @@ header ul a {
   line-height:1;
   font-size:11px;
   color:#999;
-  display:block;
+
   text-align:center;
   padding-top:6px;
   height:34px;
