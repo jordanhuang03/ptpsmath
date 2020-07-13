@@ -219,7 +219,7 @@ header ul li + li + li {
 
 header ul a strong {
   font-size:14px;
-  display:block;
+
   color:#222;
 }
 
@@ -273,7 +273,7 @@ footer {
   }
 
   header a small {
-    display:inline;
+
   }
 
   header ul {
