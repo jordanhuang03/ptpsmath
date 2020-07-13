@@ -55,7 +55,7 @@
 }
 
 bullets li {
- list-style-type: circle;
+ display: list-item;
 }
 
 body {
