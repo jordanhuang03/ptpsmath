@@ -100,7 +100,7 @@ a small {
   font-size:11px;
   color:#777;
   margin-top:-0.3em;
-
+  display: list-item;
 }
 
 a:hover small {
@@ -193,7 +193,7 @@ header ul a {
   line-height:1;
   font-size:11px;
   color:#999;
-
+  display: list-item;
   text-align:center;
   padding-top:6px;
   height:34px;
@@ -219,7 +219,7 @@ header ul li + li + li {
 
 header ul a strong {
   font-size:14px;
-
+  display: list-item;
   color:#222;
 }
 
@@ -273,7 +273,7 @@ footer {
   }
 
   header a small {
-
+    display: list-item;
   }
 
   header ul {
