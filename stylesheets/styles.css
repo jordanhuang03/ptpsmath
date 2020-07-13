@@ -165,7 +165,7 @@ header {
 }
 
 header ul {
-  list-style:none;
+  display:list-item;
   height:40px;
   padding:0;
   background: #f4f4f4;
